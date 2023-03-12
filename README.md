@@ -23,3 +23,5 @@
 - Скачать файлы (Раздел Code > Download ZIP — кнопка справа вверху)
 - Разархивировать папку с файлами
 - Открыть файл index.html
+
+[Ссылка на сайт в GitPages]([https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0](https://petrkaskov.github.io/how_to_learn/))
